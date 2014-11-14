@@ -1,0 +1,7 @@
+<html>
+<head>
+</head>
+<body>
+	<h1><strong>Beggining of a greate journey!</strong></h1>
+		<p>ZyXEL be with you!</p>
+</html>
